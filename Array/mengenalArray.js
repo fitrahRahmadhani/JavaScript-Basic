@@ -1,0 +1,1 @@
+let namaArray = ['Andi', 1, 'Juwita'];
